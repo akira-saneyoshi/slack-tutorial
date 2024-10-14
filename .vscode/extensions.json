@@ -1,0 +1,14 @@
+{
+  "recommendations": [
+    "oderwat.indent-rainbow",
+    "oven.bun-vscode",
+    "bradlc.vscode-tailwindcss",
+    "suhelmakkad.shadcn-ui",
+    "mosapride.zenkaku",
+    "dsznajder.es7-react-js-snippets",
+    "ms-vscode.vscode-typescript-next",
+    "ms-vscode.makefile-tools",
+    "nextnav.nextnav",
+    "burkeholland.simple-react-snippets"
+  ]
+}
